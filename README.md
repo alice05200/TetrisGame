@@ -4,4 +4,5 @@ Java Swing practice</br>
 Adding "Square L and Square Z(both sides)",</br>
 "pressing about or rank -> game pause closing about or rank ->game resume",</br>
 "Game restart" function</br>
+</br>
 IDE : Netbeans
